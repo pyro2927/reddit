@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>reddit application</string>
+		<key>url</key>
+		<string>http://pintozzi.com/reddit</string>
+		<key>added</key>
+		<date>2008-11-25T22:10:52Z</date>
+		<key>commenturl</key>
+		<string>http://www.reddit.com/r/iphone/comments/7ex8e/reddit_application_almost_complete_looking_for/</string>
+		<key>comments</key>
+		<string>10 comments</string>
+		<key>submittor</key>
+		<string>pyro2927</string>
+	</dict>
+</array>
+</plist>
